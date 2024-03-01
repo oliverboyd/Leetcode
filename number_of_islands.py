@@ -1,4 +1,4 @@
-# https://leetcode.com/problems/number-of-islands/description/
+# https://leetcode.com/problems/number-of-islands
 
 def land_chase(grid,i,j):
     n = len(grid)
